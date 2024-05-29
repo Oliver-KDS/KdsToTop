@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2015-09-21T18:41:55Z"
+          product-name="Kdstotop">
+        <header/>
+        <body>
+            <trans-unit id="description">
+                <source>Creates an icon to scroll up</source>
+                <target>Erzeugt ein Icon zum nach oben scrollen</target>
+            </trans-unit>
+            <trans-unit id="icon">
+                <source>Icon</source>
+                <target>Icon</target>
+            </trans-unit>
+            <trans-unit id="iconsettings">
+                <source>Icon-Settings</source>
+                <target>Icon-Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="header">
+                <source>Title (hidden)</source>
+                <target>Titel (verborgen)</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <source>size</source>
+                <target>Symbolgröße</target>
+            </trans-unit>
+            <trans-unit id="align">
+                <source>align</source>
+                <target>Ausrichtung</target>
+            </trans-unit>
+            <trans-unit id="left">
+                <source>left</source>
+                <target>Links</target>
+            </trans-unit>
+            <trans-unit id="right">
+                <source>right</source>
+                <target>Rechts</target>
+            </trans-unit>
+            <trans-unit id="pulse">
+                <source>Puls-Effect for Opener</source>
+                <target>Puls-Effekt für Icon</target>
+            </trans-unit>
+            <trans-unit id="space">
+                <source>space</source>
+                <target>Abstand</target>
+            </trans-unit>
+            <trans-unit id="cssclass">
+                <source>Css Class</source>
+                <target>Css Klasse</target>
+            </trans-unit>
+            <trans-unit id="animationsettings">
+                <source>Animation-Settings</source>
+                <target>Animations-Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="speed">
+                <source>speed</source>
+                <target>Geschwindigkeit</target>
+            </trans-unit>
+            <trans-unit id="delay">
+                <source>delay</source>
+                <target>Verzögerung (ms)</target>
+            </trans-unit>
+            <trans-unit id="showspaceontop">
+                <source>show (space from top)</source>
+                <target>Einblenden (Abstand von Oben)</target>
+            </trans-unit>
+            <trans-unit id="title">
+                <source>title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="titledesc">
+                <source>Title Tag for SEO</source>
+                <target>SEO Title-Tag</target>
+            </trans-unit>
+            <trans-unit id="showxs">
+                <source>Show on xs</source>
+                <target>Bei Auflösung XS anzeigen</target>
+            </trans-unit>
+            <trans-unit id="showsm">
+                <source>Show on sm</source>
+                <target>Bei Auflösung SM anzeigen</target>
+            </trans-unit>
+            <trans-unit id="showmd">
+                <source>Show on md</source>
+                <target>Bei Auflösung MD anzeigen</target>
+            </trans-unit>
+            <trans-unit id="showlg">
+                <source>Show on lg</source>
+                <target>Bei Auflösung LG anzeigen</target>
+            </trans-unit>
+            <trans-unit id="showxl">
+                <source>Show on xl</source>
+                <target>Bei Auflösung XL anzeigen</target>
+            </trans-unit>
+            <trans-unit id="showxxl">
+                <source>Show on xxl</source>
+                <target>Bei Auflösung XXL anzeigen</target>
+            </trans-unit>
+            <trans-unit id="show">
+                <source>show</source>
+                <target>Anzeigen</target>
+            </trans-unit>
+            <trans-unit id="hidden">
+                <source>hidden</source>
+                <target>Verbergen</target>
+            </trans-unit>
+            <trans-unit id="othersettings">
+                <source>settings</source>
+                <target>Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="hideonxs">
+                <source>Hidden on XS</source>
+                <target>Ausgeblendet bei XS</target>
+            </trans-unit>
+            <trans-unit id="hideonsm">
+                <source>Hidden on SM</source>
+                <target>Ausgeblendet bei SM</target>
+            </trans-unit>
+            <trans-unit id="hideonmd">
+                <source>Hidden on MD</source>
+                <target>Ausgeblendet bei MD</target>
+            </trans-unit>
+            <trans-unit id="hideonlg">
+                <source>Hidden on LG</source>
+                <target>Ausgeblendet bei LG</target>
+            </trans-unit>
+            <trans-unit id="hideonxl">
+                <source>Hidden on XL</source>
+                <target>Ausgeblendet bei XL</target>
+            </trans-unit>
+            <trans-unit id="hideonxxl">
+                <source>Hidden on XXL</source>
+                <target>Ausgeblendet bei XXL</target>
+            </trans-unit>
+            <trans-unit id="easing">
+                <source>Scroll Effect: </source>
+                <target>Scroll-Effekt: </target>
+            </trans-unit>
+            <trans-unit id="easingdesc">
+                <source>Only works if the jQuery easing plugin is activated. If no own easing plugin is loaded by the template, there is the possibility to activate it in the constant editor (kdstotop). </source>
+                <target>Funktioniert nur bei aktiviertem jQuery Easing-Plugin. Sollte kein eigenes Easing-Plugin durch das Template geladen sein, gibt es die Möglichkeit, dieses im Konstanten-Editor  (kdstotop)  zu aktivieren</target>
+            </trans-unit>
+            <trans-unit id="createdate">
+                <source>Create Date: </source>
+                <target>Erstellt am: </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

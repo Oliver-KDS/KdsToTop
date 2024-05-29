@@ -1,0 +1,1 @@
+@keyframes kdstotoppulse{0%,to{transform:scale(.85)}70%{transform:scale(1)}}#flight{position:fixed;display:none;z-index:99!important}#flight i{cursor:pointer}.kdstotop-pulse{animation:kdstotoppulse 1.5s infinite}:root{scroll-behavior:auto}

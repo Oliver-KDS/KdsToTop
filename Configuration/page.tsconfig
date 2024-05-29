@@ -1,0 +1,55 @@
+mod.wizards.newContentElement.wizardItems.common {
+    elements {
+        kdstotop_kdstotop {
+            iconIdentifier = kdstotop-wizard-icon
+            title = LLL:EXT:kdstotop/Resources/Private/Language/locallang_db.xlf:kdstotop
+            description = LLL:EXT:kdstotop/Resources/Private/Language/locallang_db.xlf:description
+            tt_content_defValues {
+                CType = kdstotop_kdstotop
+            }
+        }
+}
+show := addToList(kdstotop_kdstotop)
+}
+
+TCEFORM {
+    tt_content {
+        header_icon.types.kdstotop_kdstotop.disabled = 1
+        header_align_xs.types.kdstotop_kdstotop.disabled= 1
+        header_align_sm.types.kdstotop_kdstotop.disabled= 1
+        header_align_md.types.kdstotop_kdstotop.disabled= 1
+        header_align_lg.types.kdstotop_kdstotop.disabled= 1
+        header_align_xl.types.kdstotop_kdstotop.disabled= 1
+        header_align_xxl.types.kdstotop_kdstotop.disabled= 1
+        header_bottom_distance.types.kdstotop_kdstotop.disabled= 1
+        visible_xxl.types.kdstotop_kdstotop.disabled = 1
+        visible_xl.types.kdstotop_kdstotop.disabled = 1
+        visible_lg.types.kdstotop_kdstotop.disabled = 1
+        visible_md.types.kdstotop_kdstotop.disabled = 1
+        visible_sm.types.kdstotop_kdstotop.disabled = 1
+        visible_xs.types.kdstotop_kdstotop.disabled = 1
+        own_css.types.kdstotop_kdstotop.disabled = 1
+        own_header_css.types.kdstotop_kdstotop.disabled = 1
+        own_subheader_css.types.kdstotop_kdstotop.disabled = 1
+        styles.types.kdstotop_kdstotop.disabled = 1
+        subheader_layout.types.kdstotop_kdstotop.disabled = 1
+        subheader_link.types.kdstotop_kdstotop.disabled = 1
+        icon_size.types.kdstotop_kdstotop.disabled = 1
+        header_distance.types.kdstotop_kdstotop.disabled = 1
+        header_align.types.kdstotop_kdstotop.disabled = 1
+        icon.types.kdstotop_kdstotop.disabled = 1
+        icon_distance.types.kdstotop_kdstotop.disabled = 1
+        icon_align.types.kdstotop_kdstotop.disabled = 1
+        padding_left.types.kdstotop_kdstotop.disabled = 1
+        padding_right.types.kdstotop_kdstotop.disabled = 1
+        padding_top.types.kdstotop_kdstotop.disabled = 1
+        padding_bottom.types.kdstotop_kdstotop.disabled = 1
+        margin_left.types.kdstotop_kdstotop.disabled = 1
+        margin_right.types.kdstotop_kdstotop.disabled = 1
+        margin_top.types.kdstotop_kdstotop.disabled = 1
+        margin_bottom.types.kdstotop_kdstotop.disabled = 1
+        kdsstyles.types.kdstotop_kdstotop.disabled = 1
+        date.types.kdstotop_kdstotop.disabled = 1
+        header_link.types.kdstotop_kdstotop.disabled = 1
+    }
+}
